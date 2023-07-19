@@ -1,7 +1,7 @@
 # Hi! This is Pipcy~
 
 ### Who am I?
-I am a Computer Engineer major student that also likes to create softwares and make indie games 😆! Read more about me on [here](https://pippi.super.site).
+I am a Computer Engineering major student that also likes to create softwares and make indie games 😆! Read more about me on [here](https://pippi.super.site).
 
 ### Welcome to my Github page! In here, you will find:
 
