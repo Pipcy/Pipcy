@@ -1,7 +1,7 @@
-# Hi! This is Pipcy~
+# Hi! This is Pipcy 👋
 
 ### Who am I?
-I am a Computer Engineering major student that also likes to create softwares and make indie games 😆! Read more about me on [here](https://pippi.super.site).
+I am a Computer Engineering major college undergrad who also likes to explore and work on cool project on my own time😆! Read more about me on [here](https://pippipi.com).
 
 ### Welcome to my Github page! In here, you will find:
 
@@ -9,7 +9,7 @@ I am a Computer Engineering major student that also likes to create softwares an
 - Some iOS and Android apps.
 - Some AI Projects I made in the past.
 
-If you would like to read about some development details for each project with a more readable format, you're welcome to visit my [personal website](https://pippi.super.site).
+If you would like to read about some development details for each project with a more readable format, you're welcome to visit my [personal website](https://pippipi.com).
 
 ### Collaboration?
 You can reach me at: pipcy@proton.me
