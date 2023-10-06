@@ -1,7 +1,7 @@
 # Hi! This is Pipcy 👋
 
 ### Who am I?
-I am a Computer Engineering major college undergrad who also likes to explore and work on cool project on my own time😆! Read more about me on [here](https://pippipi.com).
+I am a college undergrad studying Computer Engineering who also likes to explore and work on cool project on my own time😆! Read more about me on [here](https://pippipi.com).
 
 ### Welcome to my Github page! In here, you will find:
 
