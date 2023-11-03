@@ -9,6 +9,8 @@ I am a college undergrad studying Computer Engineering who also likes to explore
 - Some iOS and Android apps.
 - Some AI Projects I made in the past.
 
+Note that most of my code were written during a time chrunch (i.e. Game jam) so some may not have the best formatting :(
+
 If you would like to read about some development details for each project with a more readable format, you're welcome to visit my [personal website](https://pippipi.com).
 
 ### Collaboration?
