@@ -1,6 +1,6 @@
 
 
-![Card Name](https://cardivo.vercel.app/api?name=Pipcy✨&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20SWE,%20AI%20Engineer,%20Game%20Dev%20&site=%F0%9F%8E%93%20B\.S\.%20Computer%20Engineering&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%231a0033&fontColor=%23ffffff&pattern=topography&colorPattern=%23eaeaea&opacity=0.1)
+![Card Name](https://cardivo.vercel.app/api?name=Pipcy✨&description=%F0%9F%91%A8%E2%80%8D%F0%9F%8F%AB%20SWE,%20RL%20Engineer,%20Game%20Dev%20&site=%F0%9F%8E%93%20B\.S\.%20Computer%20Engineering&image=https://miraculoussoft.com/wp-content/themes/miraculous/images/mobapp.gif&backgroundColor=%231a0033&fontColor=%23ffffff&pattern=topography&colorPattern=%23eaeaea&opacity=0.1)
 # Hi!
 
 I am a college undergrad studying Computer Engineering who also likes to explore and work on cool project on my own time😆! Read more about me on [here](https://pippipi.com).
